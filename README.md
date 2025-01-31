@@ -24,7 +24,7 @@ A powerful and flexible orchestration framework that combines multiple Snowflake
   ```
   orchestration-framework@git+https://github.com/Snowflake-Labs/orchestration-framework.git
   streamlit
-  snowflake-snowpark-python
+  snowflake-ml-python
   python-dotenv
   yfinance
   requests
